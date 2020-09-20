@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TaskProject</string>
+    <string name="facebook_app_id">348594173052745</string>
+    <string name="facebook_app_protocol_scheme">fb348594173052745</string>
+</resources>
